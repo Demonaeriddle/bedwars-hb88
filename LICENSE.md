@@ -1,4 +1,4 @@
-#  
+#  Experience bedwars like never before with smart bedwars Script, the #1 Script. Includes auto-heal and no cooldown for unbeatable performance.
 
 
 
